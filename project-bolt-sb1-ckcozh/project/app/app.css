@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.action-bar {
+    background-color: #2563eb;
+    color: white;
+}
+
+.password-item {
+    border-bottom-width: 1px;
+    border-bottom-color: #e5e7eb;
+}
